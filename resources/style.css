@@ -1,0 +1,23 @@
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+body {
+  width: 960px;
+}
+
+/* Header CSS */
+
+.company {
+  background-color: black;
+  width: 100%;
+  justify-content: center;
+}
+
+.contatiner {
+  display: flex;
+  align-items: center;
+  color: white;
+  width: 960px;
+}
